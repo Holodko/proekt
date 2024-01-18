@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&family=Neucha&family=Pangolin&display=swap');
+
+body {
+    background-color: #c9baa6;
+    cursor: url("https://cdn.custom-cursor.com/db/cursor/32/christmas_tree_and_t-rex_cursor.png"),
+		auto;
+}
+
+header {
+    flex-direction: column;
+    width: 768px;
+    background-color: #aa183c;
+    padding: 32px;
+    display: flex;
+    margin:  50px auto ;
+    color: #c33155 ;
+
+
+}
+
+
+.container {
+    display: flex;
+    width: 768px;
+    background-color: #aa183c;
+    box-sizing: border-box;
+    text-align: center;
+    color: #c33155 ;
+    
+}
+
+main {
+    flex-direction: column;
+    width: 768px;
+    background-color: #aa183c;
+    padding: 32px;
+    display: flex;
+    margin:  0px auto ;
+    color: #c33155 ;
+
+   
+  
+   
+}
+
+
+
+footer {
+    text-align: center;
+    width: 768px;
+    padding: 32px ;
+    margin: 32px auto 0px auto ;
+    color: #c33155 ;
+   
+  
+   
+}
+
+.cage {
+    font-family: "Neucha" ;
+    width: 50;
+    height: 100px;
+    background-color: #fff;
+    border-radius: 16px;
+    padding: 32px ;
+    margin: 16px auto ;
+    color: #c33155 ;
+  
+
+}
